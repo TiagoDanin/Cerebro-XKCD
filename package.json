@@ -14,7 +14,8 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin"
+    "cerebro-plugin",
+    "xkcd"
   ],
   "scripts": {
     "start": "cerebro-scripts start",
@@ -22,5 +23,18 @@
     "test": "cerebro-scripts test",
     "clear": "cerebro-scripts clear",
     "prepublish": "yarn clear && yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoDanin/Cerebro-XKCD.git"
+  },
+  "author": "TiagoDanin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoDanin/Cerebro-XKCD/issues"
+  },
+  "homepage": "https://TiagoDanin.github.io/Cerebro-XKCD",
+  "engines": {
+    "node": ">=8"
   }
 }
