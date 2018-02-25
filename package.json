@@ -1,12 +1,15 @@
 {
-  "name": "my-plguin",
-  "version": "0.1.0",
+  "name": "cerebro-xkcd",
+  "description": "XKCD plugin for Cerebro",
+  "version": "1.0.0",
   "dependencies": {
-    "cerebro-tools": "^0.1.8",
-    "cerebro-ui": "^0.0.16"
+    "cerebro-tools": "0.1.8",
+    "cerebro-ui": "0.0.16"
   },
   "devDependencies": {
-    "cerebro-scripts": "0.0.25"
+    "cerebro-scripts": "0.0.25",
+    "request": "2.83.0",
+    "request-promise-native": "1.0.5"
   },
   "main": "dist/index.js",
   "keywords": [
