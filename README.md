@@ -7,7 +7,7 @@ XKCD plugin for Cerebro
 
 # Usage
 
-**Type `xkcd` or `xkcd [id]`**
+**Write `xkcd` or `xkcd [id]`**
 
 ![Screenshots](https://raw.githubusercontent.com/TiagoDanin/Cerebro-XKCD/master/Screenshots.png)
 
