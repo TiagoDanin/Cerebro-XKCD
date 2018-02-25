@@ -3,4 +3,4 @@ link_template_raw: 'https://raw.githubusercontent.com/TiagoDanin/TiagoDanin.gith
 readme: True
 branch: 'gh-pages'
 links:
-  npm: 'https://www.npmjs.com/package/ttgram'
+  npm: 'https://www.npmjs.com/package/cerebro-xkcd'
