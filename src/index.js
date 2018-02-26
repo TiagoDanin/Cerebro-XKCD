@@ -25,7 +25,6 @@ const plugin = async({
 			uri: `${id}/info.0.json`
 		})
 		data = JSON.parse(data)
-		console.log(match[1])
 		hide('xkcd-await')
 
 		var url = `https://xkcd.com/${id}/`
