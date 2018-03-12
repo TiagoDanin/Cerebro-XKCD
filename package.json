@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "cerebro-scripts": "0.0.25",
-    "request": "2.83.0",
+    "request": "2.85.0",
     "request-promise-native": "1.0.5"
   },
   "main": "dist/index.js",
