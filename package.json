@@ -1,7 +1,7 @@
 {
   "name": "cerebro-xkcd",
   "description": "XKCD plugin for Cerebro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "cerebro-tools": "0.1.8",
     "cerebro-ui": "0.0.16"
