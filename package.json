@@ -1,40 +1,40 @@
 {
-  "name": "cerebro-xkcd",
-  "description": "XKCD plugin for Cerebro",
-  "version": "1.0.2",
-  "dependencies": {
-    "cerebro-tools": "0.1.8",
-    "cerebro-ui": "0.0.16"
-  },
-  "devDependencies": {
-    "cerebro-scripts": "0.0.25",
-    "request": "2.85.0",
-    "request-promise-native": "1.0.7"
-  },
-  "main": "dist/index.js",
-  "keywords": [
-    "cerebro",
-    "cerebro-plugin",
-    "xkcd"
-  ],
-  "scripts": {
-    "start": "cerebro-scripts start",
-    "build": "cerebro-scripts build",
-    "test": "cerebro-scripts test",
-    "clear": "cerebro-scripts clear",
-    "prepublish": "yarn clear && yarn build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TiagoDanin/Cerebro-XKCD.git"
-  },
-  "author": "TiagoDanin",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/TiagoDanin/Cerebro-XKCD/issues"
-  },
-  "homepage": "https://TiagoDanin.github.io/Cerebro-XKCD",
-  "engines": {
-    "node": ">=8"
-  }
+	"name": "cerebro-xkcd",
+	"description": "XKCD plugin for Cerebro",
+	"version": "1.0.2",
+	"dependencies": {
+		"cerebro-tools": "0.1.8",
+		"cerebro-ui": "0.0.16"
+	},
+	"devDependencies": {
+		"cerebro-scripts": "0.0.25",
+		"request": "^2.85.0",
+		"request-promise-native": "^1.0.7"
+	},
+	"main": "dist/index.js",
+	"keywords": [
+		"cerebro",
+		"cerebro-plugin",
+		"xkcd"
+	],
+	"scripts": {
+		"start": "cerebro-scripts start",
+		"build": "cerebro-scripts build",
+		"test": "cerebro-scripts test",
+		"clear": "cerebro-scripts clear",
+		"prepublish": "yarn clear && yarn build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TiagoDanin/Cerebro-XKCD.git"
+	},
+	"author": "TiagoDanin",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/TiagoDanin/Cerebro-XKCD/issues"
+	},
+	"homepage": "https://TiagoDanin.github.io/Cerebro-XKCD",
+	"engines": {
+		"node": ">=8"
+	}
 }
