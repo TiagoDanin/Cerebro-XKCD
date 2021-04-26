@@ -35,6 +35,6 @@
 	},
 	"homepage": "https://TiagoDanin.github.io/Cerebro-XKCD",
 	"engines": {
-		"node": ">=8"
+		"node": ">=v14.16.1"
 	}
 }
